@@ -1,8 +1,113 @@
-# React + Vite
+# World Atlas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **World Atlas**! This project is a React.js web application that lets you explore all the countries in the world. Using APIs, you can gather various details about any country, such as population, region, capital, and more. The user-friendly interface is styled with CSS, providing a seamless and engaging experience.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🌎 **Explore All Countries**: View a list of all countries in the world.
+- 🔍 **Search Functionality**: Search for a specific country by name.
+- 📄 **Detailed Information**: Get information about a country, including:
+  - Name
+  - Capital
+  - Population
+  - Region
+  - Flag
+- 🖌️ **Responsive Design**: Optimized for both desktop and mobile devices.
+
+## Tech Stack
+
+- **Frontend**: React.js
+- **Styling**: CSS
+- **APIs**: Fetches data from external APIs for country details.
+
+## Installation
+
+Follow the steps below to set up and run the project locally:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/world-atlas.git
+   cd world-atlas
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
+   ```bash
+   npm start
+   ```
+
+4. **Access the application**
+   Open your browser and navigate to `http://localhost:3000`.
+
+## Usage
+
+1. Browse the homepage to view a list of countries.
+2. Use the search bar to find a specific country.
+3. Click on a country card to see detailed information.
+
+## API Used
+
+This project fetches country data using the following API:
+
+- [REST Countries API](https://restcountries.com/)
+
+## Project Structure
+
+```
+world-atlas/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── CountryCard.js
+│   │   ├── CountryDetails.js
+│   │   └── SearchBar.js
+│   ├── pages/
+│   │   └── HomePage.js
+│   ├── App.js
+│   ├── index.js
+│   └── styles/
+│       └── App.css
+├── package.json
+└── README.md
+```
+
+## Screenshots
+
+### Homepage
+![Homepage screenshot](#)
+
+### Country Details
+![Country details screenshot](#)
+
+> *(Replace the `#` with the actual image URLs if you have screenshots to include.)*
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch-name`).
+3. Commit your changes (`git commit -m 'Add a new feature'`).
+4. Push to the branch (`git push origin feature-branch-name`).
+5. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+If you have any questions or feedback, feel free to reach out:
+
+- **Name**: Raviranjan
+- **Email**: webravi11@gmail.com
+- **GitHub**: [raviranjan0](https://github.com/your-username)
+
+---
+
+Thank you for exploring **World Atlas**! 🌍
