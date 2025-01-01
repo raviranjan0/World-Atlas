@@ -79,10 +79,12 @@ world-atlas/
 ## Screenshots
 
 ### Homepage
-![Homepage screenshot](#)
+![image](https://github.com/user-attachments/assets/be0f0d4e-5131-44a2-819b-beda19b4bfe1)
+
 
 ### Country Details
-![Country details screenshot](#)
+![image](https://github.com/user-attachments/assets/992880d2-5fea-4360-82f3-4620e75ab4d5)
+
 
 > *(Replace the `#` with the actual image URLs if you have screenshots to include.)*
 
