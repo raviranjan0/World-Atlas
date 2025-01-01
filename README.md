@@ -106,7 +106,7 @@ If you have any questions or feedback, feel free to reach out:
 
 - **Name**: Raviranjan
 - **Email**: webravi11@gmail.com
-- **GitHub**: [raviranjan0](https://github.com/your-username)
+- **GitHub**: [raviranjan0](https://github.com/raviranjan0)
 
 ---
 
