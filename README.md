@@ -1,6 +1,6 @@
 # World Atlas
 
-Welcome to **World Atlas**! This project is a React.js web application that lets you explore all the countries in the world. Using APIs, you can gather various details about any country, such as population, region, capital, and more. The user-friendly interface is styled with CSS, providing a seamless and engaging experience.    
+Welcome to **World Atlas**! This project is a React.js web application that lets you explore all the countries in the world. Using APIs, you can gather various details about any country, such as population, region, capital, and more. The user-friendly interface is styled with CSS, providing a seamless and engaging experience.   
 
 ## Features :
 
