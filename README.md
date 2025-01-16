@@ -22,6 +22,15 @@ Welcome to **World Atlas**! This project is a React.js web application that lets
 
   ---
 
+  ## Screenshots :
+
+### Homepage
+![image](https://github.com/user-attachments/assets/be0f0d4e-5131-44a2-819b-beda19b4bfe1)
+
+
+### Country Details
+![image](https://github.com/user-attachments/assets/992880d2-5fea-4360-82f3-4620e75ab4d5)
+
 ## Live Demo :
 [Live Demo](https://rv-world-atlas.vercel.app/)
 
@@ -81,14 +90,7 @@ world-atlas/
 └── README.md
 ```
 
-## Screenshots :
 
-### Homepage
-![image](https://github.com/user-attachments/assets/be0f0d4e-5131-44a2-819b-beda19b4bfe1)
-
-
-### Country Details
-![image](https://github.com/user-attachments/assets/992880d2-5fea-4360-82f3-4620e75ab4d5)
 
 ## Contributing :
 
