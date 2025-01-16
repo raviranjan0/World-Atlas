@@ -90,9 +90,6 @@ world-atlas/
 ### Country Details
 ![image](https://github.com/user-attachments/assets/992880d2-5fea-4360-82f3-4620e75ab4d5)
 
-
-> *(Replace the `#` with the actual image URLs if you have screenshots to include.)*
-
 ## Contributing :
 
 Contributions are welcome! If you'd like to contribute to this project:
